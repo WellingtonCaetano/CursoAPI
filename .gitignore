@@ -1,0 +1,9 @@
+ CursoAPI.sln
+.vs/
+CursoAPI.api.xml
+CursoAPI.csproj
+CursoAPI.csproj.user
+CursoAPI.xml
+Migrations/
+bin/
+obj/
